@@ -4,7 +4,8 @@ End of course project, Machine Learning Algorithm, Bike Sharing Location Predict
 
 # Bike-Sharing Prediction Project
 
-This project analyzes and predicts bike rental counts using machine learning techniques from data gathered in Washington D.C. in 2011 and 2012 (https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) The dataset contains daily and hourly data, including meteorological and calendary features.
+This project analyzes and predicts bike rental counts using machine learning techniques from data gathered in Washington D.C. in 2011 and 2012 (https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset). 
+The dataset contains daily and hourly data, including meteorological and calendary features.
 
 ## Table of Contents
 
@@ -66,7 +67,7 @@ There is only one script: `bike-prediction.py`. You can launch it from the termi
 ### Basic Command:
 
 ```bash
-python bike-prediction.py
+python3 bike-prediction.py
 ```
 
 ## Script Parameters
