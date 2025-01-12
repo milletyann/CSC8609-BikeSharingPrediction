@@ -72,13 +72,13 @@ python3 bike-prediction.py
 
 ## Script Parameters
 
-The script `bike-prediction.py` accepts the following parameters:
+The script `bike-prediction.py` accepts the following parameters (parameters can be combined):
 
 ### 1. `--display-plots`
 
 - **Default**: `False`
 - **Description**: Tells whether plots (e.g., pairplots, scatterplots) are displayed during the execution of the script.
-- **Example**:
+- **Command**:
 ```bash
 python3 bike-prediction.py --display-plots
 ```
@@ -87,7 +87,7 @@ python3 bike-prediction.py --display-plots
 
 - **Default**: `False`
 - **Description**: Determines whether to perform nested cross-validation for hyperparameter tuning or not. If unset, precomputed parameters are loaded.
-- **Example**:
+- **Command**:
 ```bash
 python3 bike-prediction.py --run-nested-crossval
 ```
