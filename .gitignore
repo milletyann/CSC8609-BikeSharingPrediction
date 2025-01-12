@@ -398,3 +398,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# le seul truc que je voulais en prenant un template visual studio
+.DS_Store
+# fichiers de dév qui ne servent qu'à moi
+explo.ipynb
